@@ -40,4 +40,4 @@ while follow:
         print("!Gracias por usar!")
         follow=False # Termina el bucle principal
     else:
-        continue
+        continue #Significa que se repetira
