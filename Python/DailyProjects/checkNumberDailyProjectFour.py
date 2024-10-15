@@ -15,7 +15,7 @@ while follow:
     follow2 = str(input("wish follow?, S = yes, N = Not: "))
     follow2 = follow2.lower()
     if follow2 != "s":
-        print("Thanks for use!")
+        print("!Thanks for use!")
         follow=False
     else:
         continue
